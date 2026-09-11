@@ -6,11 +6,11 @@ An interactive Tableau dashboard analyzing employee demographics, salaries, depa
 
 View the interactive dashboard on Tableau Public:
 
-[Open the Employee Salary Analysis Dashboard](https://public.tableau.com/app/profile/mohab.adel/viz/ParksandRecreation_17890663854760/Dashboard1?publish=yes)
+[Open the Employees Analysis Dashboard](https://public.tableau.com/app/profile/mohab.adel/viz/ParksandRecreation_17890663854760/Dashboard1?publish=yes)
 
 ## Dashboard Preview
 
-![Employee Salary Analysis Dashboard](images/employee-analysis-dashboard.jpg)
+![Employees Analysis](parksdashboard.jpg)
 
 ## Project Overview
 
